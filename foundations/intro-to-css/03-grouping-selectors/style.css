@@ -1,0 +1,13 @@
+.button {
+    font-size: 28px;
+    font-family: Arial, Helvetica, 'Times New Roman', Times, sans-serif;
+}
+
+#one {
+    background-color: #141313;
+    color: white;
+}
+
+#two {
+    background-color: rgb(188, 188, 0);
+}
